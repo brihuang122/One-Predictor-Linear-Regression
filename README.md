@@ -1,1 +1,3 @@
-# One-Predictor-Linear-Regression
+In part A of the project, students were given 2 data tables and were asked to complete a series of statistical processing tasks. Through the use of programs such as R, students needed to find a fitted function used to generate the dependent variable based on the value of the independent variable. Additionally, students were asked to count observations while taking into account missing data as well as impute the missing data
+
+In part B of the project, students were given a table consisting of subject IDs, independent variables, and dependent variables. Using the provided data set, students had to find a fitting model that would generate the dependent variable based on the independent variable. Additionally, students were asked to transform data values, bin repeated data, and pick a fitting function using the lack of fit test.
